@@ -1,4 +1,13 @@
-## Initial Setup
+## Defaults:
+	- ### Files Manager:
+		- #### nautilus aka GNOME Files
+	- ### Web Browser:
+		- #### firefox
+	- ### Terminal Emulator:
+		- #### GNOME Console (kgx)
+	- ### Package Manager:
+		- #### apt
+- ## Initial Setup
 	- ### Base (Laptop):
 		- #### 2012 15” MacBook Pro 9,1
 	- ### Memory:
@@ -16,15 +25,6 @@
 		- #### Remaining Space Filesystem (ext4)
 	- ### Desktop Environment:
 		- #### GNOME 48
-- ## Defaults:
-	- ### Files Manager:
-		- #### nautilus aka GNOME Files
-	- ### Web Browser:
-		- #### firefox
-	- ### Terminal Emulator:
-		- #### GNOME Console (kgx)
-	- ### Package Manager:
-		- #### apt
 - ## Customizations:
 	- ### Web Browser:
 		- #### opera
@@ -44,6 +44,9 @@
 	- ### Additional Package Manager:
 		- #### flatpak
 			- {{embed [[How to Install Flatpak and Setup Flathub]]}}
+	- ### Terminal Text Editor and IDE:
+		- #### nvim (NeoVim with LazyVim)
+			- {{embed [[How to Install LazyVim in Debian]]}}
 	- ### Additional Tools:
 		- #### apt-rdepends (apt package dependencies check utility)
 		- #### curl (data transfer to or from a server)
