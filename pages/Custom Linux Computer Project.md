@@ -1,0 +1,27 @@
+## Initial Setup
+	- ### Base (Laptop):
+		- #### 2012 15” MacBook Pro 9,1
+	- ### Memory:
+		- #### 2x 8gb 1600 MHz DDR3 SDRAM
+	- ### Additional Firmware:
+		- #### Broadcom B43 WiFi
+		  id:: 68cba2db-6c5a-43f9-9049-13beaee89850
+			- {{embed [[How to Install Broadcom B43 WiFi Firmware (Debian 13 on Macbook Pro 9,1)]]}}
+	- ### Operating System:
+		- #### Debian 13 Trixie
+	- ### Storage Device:
+		- #### 250gb Samsung 850 EVO
+	- ### Partition:
+		- #### 1gb EFI
+		- #### Remaining Space Filesystem (ext4)
+	- ### Desktop Environment:
+		- #### GNOME 48
+- ## Defaults:
+	- ### Files Manager:
+		- #### Nautilus aka GNOME Files
+	- ### Web Browser:
+		- #### Firefox
+- ## Customizations:
+	- ### Web Browser:
+		- Opera
+-
