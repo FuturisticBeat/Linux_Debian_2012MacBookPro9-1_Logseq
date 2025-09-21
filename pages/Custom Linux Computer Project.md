@@ -18,10 +18,33 @@
 		- #### GNOME 48
 - ## Defaults:
 	- ### Files Manager:
-		- #### Nautilus aka GNOME Files
+		- #### nautilus aka GNOME Files
 	- ### Web Browser:
-		- #### Firefox
+		- #### firefox
+	- ### Terminal Emulator:
+		- #### GNOME Console (kgx)
+	- ### Package Manager:
+		- #### apt
 - ## Customizations:
 	- ### Web Browser:
-		- Opera
--
+		- #### opera
+	- ### Backup and Snapshots:
+		- #### timeshift
+	- ### System Information:
+		- #### fastfetch
+	- ### Version Control:
+		- #### git
+	- ### Terminal Emulator:
+		- #### kitty
+	- ### System Activity Monitor:
+		- #### btop
+	- ### Terminal Multiplexer:
+		- #### zellij
+			- {{embed [[How to Install and Setup Zellij Terminal Multiplexer]]}}
+	- ### Additional Package Manager:
+		- #### flatpak
+			- {{embed [[How to Install Flatpak and Setup Flathub]]}}
+	- ### Additional Tools:
+		- #### apt-rdepends (apt package dependencies check utility)
+		- #### curl (data transfer to or from a server)
+		- #### lazygit (git terminal user interface)
