@@ -1,13 +1,4 @@
-## Defaults:
-	- ### Files Manager:
-		- #### nautilus aka GNOME Files
-	- ### Web Browser:
-		- #### firefox
-	- ### Terminal Emulator:
-		- #### GNOME Console (kgx)
-	- ### Package Manager:
-		- #### apt
-- ## Initial Setup
+## Initial Setup
 	- ### Base (Laptop):
 		- #### 2012 15” MacBook Pro 9,1
 	- ### Memory:
@@ -25,6 +16,19 @@
 		- #### Remaining Space Filesystem (ext4)
 	- ### Desktop Environment:
 		- #### GNOME 48
+- ## Defaults:
+	- ### File Manager:
+		- #### nautilus aka GNOME Files
+	- ### Web Browser:
+		- #### firefox
+	- ### Terminal Emulator:
+		- #### GNOME Console (kgx)
+	- ### Shell:
+		- #### bash
+	- ### Package Manager:
+		- #### apt
+	- ### Text Editor:
+		- #### nano
 - ## Customizations:
 	- ### Web Browser:
 		- #### opera
@@ -36,6 +40,9 @@
 		- #### git
 	- ### Terminal Emulator:
 		- #### kitty
+	- ### Customizable Shell Prompt:
+		- #### starship
+			- {{embed [[How to Install Starship and Setup Preset]]}}
 	- ### System Activity Monitor:
 		- #### btop
 	- ### Terminal Multiplexer:

@@ -3,11 +3,11 @@
   #+END_NOTE
 - install recent version of neovim using AppImage from Github
 	- #+BEGIN_QUOTE
-	  curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
+	  curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64.appimage
 	  #+END_QUOTE
 - make downloaded AppImage executable for local user
 	- #+BEGIN_QUOTE
-	  chmod u+x nvim.appimage
+	  chmod u+x nvim-linux-x86_64.appimage
 	  #+END_QUOTE
 - move executable to /usr/local/bin for global use in CLI
 	- #+BEGIN_QUOTE
