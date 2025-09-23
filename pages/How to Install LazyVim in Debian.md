@@ -28,3 +28,14 @@
 	- #+BEGIN_QUOTE
 	  rm -rf ~/.config/nvim/.git
 	  #+END_QUOTE
+- install [apt] tree-sitter-cli (tree-sitter parser manager)
+	- #+BEGIN_NOTE
+	  [*required dependency*]
+	  when this is not installed there will be errors displayed on nvim load
+	  #+END_NOTE
+	- #+BEGIN_QUOTE
+	  sudo apt update
+	  #+END_QUOTE
+	- #+BEGIN_QUOTE
+	  sudo apt install tree-sitter-cli
+	  #+END_QUOTE

@@ -58,3 +58,10 @@
 		- #### apt-rdepends (apt package dependencies check utility)
 		- #### curl (data transfer to or from a server)
 		- #### lazygit (git terminal user interface)
+		- #### fzf (terminal fuzzy finder search)
+		- #### ripgrep (terminal recursive search with regex)
+		- #### fd-find (files and directories search alternative to find with simpler syntax)
+		- #### zoxide (smarter cd command for file system navigation using frecency algorithm)
+			- {{embed [[How to install Zoxide]]}}
+		- #### yazi (terminal file manager)
+			- {{embed [[How to install Yazi on Debian]]}}

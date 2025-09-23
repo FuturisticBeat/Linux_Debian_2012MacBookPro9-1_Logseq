@@ -1,7 +1,6 @@
 - version control starship config
 - version control neovim config
 - version control zellij config
-- install [apt] fzf (CLI interactive search fuzzy finder)
-- install [apt] ripgrep (CLI search tool recursive directory search with regex pattern)
-- install [apt] fd-find (files and directories search alternative to find with simpler syntax)
-- install [apt] zoxide (smarter cd command for file system navigation using frecency algorithm)
+- version control kitty config
+- version control ~/.bashrc
+- version control yazi config
