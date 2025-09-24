@@ -62,6 +62,10 @@
 		- #### ripgrep (terminal recursive search with regex)
 		- #### fd-find (files and directories search alternative to find with simpler syntax)
 		- #### zoxide (smarter cd command for file system navigation using frecency algorithm)
+		  collapsed:: true
 			- {{embed [[How to install Zoxide]]}}
 		- #### yazi (terminal file manager)
+		  collapsed:: true
 			- {{embed [[How to install Yazi on Debian]]}}
+		- #### gnome-shell-extension-manager (GNOME extensions manager)
+		- #### localsend (secure local file sharing)
