@@ -69,3 +69,11 @@
 			- {{embed [[How to install Yazi on Debian]]}}
 		- #### gnome-shell-extension-manager (GNOME extensions manager)
 		- #### localsend (secure local file sharing)
+		- #### gir1.2-gtop-2.0 (system monitoring tool, Vitals gnome-extension dependency)
+	- ### GNOME Extensions:
+		- #### Vitals (GNOME top bar system monitor)
+		- #### Open Bar (GNOME customizable top bar)
+		- #### Media Controls (GNOME top bar media controls)
+		- #### Hide Top Bar (GNOME top bar auto-hide)
+		- #### Coverflow Alt-Tab (GNOME customizable alt-tab)
+		- #### Clipboard Indicator (GNOME top bar clipboard history)
